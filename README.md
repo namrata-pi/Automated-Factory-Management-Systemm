@@ -24,5 +24,10 @@ Workflow of the Project
 <img width="934" height="496" alt="image" src="https://github.com/user-attachments/assets/307d2076-bf63-4bb2-9ff8-b52da97f77f3" />
 
 4. Worker dashboard displaying completed tasks for daily review and monitoring.
-<img width="1244" height="81" alt="image" src="https://github.com/user-attachments/assets/9bc2f0b2-5d03-4103-afab-01832e8cc21b" />
+<img width="1178" height="507" alt="image" src="https://github.com/user-attachments/assets/f0a63037-b5b8-4061-8f26-8818ee8798d4" />
+
+5. All the data is stored in json, all the crud operations are operated through this file
+
+<img width="585" height="431" alt="image" src="https://github.com/user-attachments/assets/6d9555df-e13c-4681-bad2-4ae79a73eeb6" />
+
 
