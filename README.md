@@ -19,14 +19,12 @@ Workflow of the Project
 <img width="969" height="513" alt="image" src="https://github.com/user-attachments/assets/7358980a-956d-48c3-949f-f4c241025dd3" />
 
 3. This is the worker panel, where we can see the assigned tasks  for the workers
-
-
-   <img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/53f0d7e5-4e8d-4c36-8954-a67d12290c00" />
+<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/53f0d7e5-4e8d-4c36-8954-a67d12290c00" />
 
 
 
 4.This is the part when the worker has pressed the end button, and the task has been completed and moved to completed task tab.
-<img width="934" height="496" alt="image" src="https://github.com/user-attachments/assets/307d2076-bf63-4bb2-9ff8-b52da97f77f3" />
+<img width="1906" height="985" alt="image" src="https://github.com/user-attachments/assets/f776361d-20cd-4368-866f-31c5701f91d3" />
 
 5. This is the part where the worker has pressed a start button for the operation assigned, and hasn't completed the work yet, this falls under the pending tasks
 
